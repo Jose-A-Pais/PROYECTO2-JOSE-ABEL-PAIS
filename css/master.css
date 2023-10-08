@@ -1,0 +1,14 @@
+.navbar {
+    background-color: blue;
+
+  }
+
+  body {
+    background-image: url("https://images.pexels.com/photos/301717/pexels-photo-301717.jpeg");
+  }
+  
+  .card {
+    box-shadow : 5px 5px 5px black;
+  }
+  
+  
